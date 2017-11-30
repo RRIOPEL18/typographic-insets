@@ -114,3 +114,7 @@ figcaption {
   font-size: .875rem;
   font-style: italic;
 }
+
+p:nth-child(1)::first-letter {
+  font-size: 5rem;
+}
