@@ -101,7 +101,7 @@ blockquote {
 figure {
   display: inline-block;
   width: 300px;
-  float:right;
+  float: right;
   border-top: 2px solid #333;
   border-bottom: 2px solid #333;
   padding-top: .2em;
